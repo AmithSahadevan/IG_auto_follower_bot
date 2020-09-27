@@ -5,7 +5,7 @@
 
 ## DONT MOVE OR DELETE FILES INSIDE THE BOT'S FOLDER ! -+=(-_-) 
 
-#1 Your account details will be used for *login purposes only*...It is 10000000+% safe..so you don't need to worry!
+#1 Your account details will be used for **login purposes only**...It is 10000000+% safe..so you don't need to worry!
 
 #2 You will have to type your username and password correctly....otherwise, it won't work! And also, the target id as well..
 
